@@ -1,0 +1,31 @@
+{
+  "seed": 42,
+  "target_mb": 8.0,
+  "note": "synthetic template text; repetitive; for pipeline testing only",
+  "files": {
+    "val.jsonl": {
+      "docs": 492,
+      "chars": 409282,
+      "approx_tokens_chars_div_4": 102320,
+      "sha256": "eb4cd51fb0692172c2f72b5a1b276cc102e051676a463770678a0ac102ba39bc"
+    },
+    "test.jsonl": {
+      "docs": 492,
+      "chars": 398761,
+      "approx_tokens_chars_div_4": 99690,
+      "sha256": "d74e7be2eca49d5b4449ff53dcf6c281b1700598afc24b22b9398efcadf2646e"
+    },
+    "train.jsonl": {
+      "docs": 8859,
+      "chars": 7193229,
+      "approx_tokens_chars_div_4": 1798307,
+      "sha256": "ba5cca5e7a129683b4bc56b65985f1bef25f95fec0c95bed17731d38d1bcdad6"
+    },
+    "general_eval.jsonl": {
+      "docs": 300,
+      "chars": 183188,
+      "approx_tokens_chars_div_4": 45797,
+      "sha256": "bb5225f46aeed71336ebd78c6df7e6092cac0f0457637c1457407210df7ae5fb"
+    }
+  }
+}
